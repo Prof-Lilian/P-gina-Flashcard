@@ -2,7 +2,7 @@ body {
     background-color: bisque;
     font-family: Bai Jamjuree;
 }
-#container {
+# container{
     display: flex;
 }
 
