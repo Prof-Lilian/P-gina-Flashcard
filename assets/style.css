@@ -3,7 +3,7 @@ body {
     font-family: Bai Jamjuree;
 }
 #container {
-    display: flex; /* Elementos dispostos em linha */
+    display: flex;
 }
 
 .cartao {
@@ -16,7 +16,6 @@ body {
 
 .cartao__conteudo {
     text-align: center;
-    /* background-color: aquamarine; */
     height: 100%;
 }
 
